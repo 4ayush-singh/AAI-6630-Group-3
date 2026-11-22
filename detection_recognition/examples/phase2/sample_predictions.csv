@@ -1,0 +1,12 @@
+pdf,page,crop_id,x,y,w,h,pred_smiles,is_valid,is_markush,true_name,true_smiles,exact_match,tanimoto
+1.pdf,3,1_p3_1716_312,1716,312,568,222,COc1cc2c(Oc3ccc(NC(=O)C4(C(=O)Nc5ccc(F)cc5)CC4)cc3F)ccnc2cc1OCCCN1CCOCC1,True,False,Foretinib,COc1cc2c(Oc3ccc(NC(=O)C4(C(=O)Nc5ccc(F)cc5)CC4)cc3F)ccnc2cc1OCCCN1CCOCC1,True,1.0
+1.pdf,3,1_p3_1247_268,1247,268,412,230,CCN1CCN(Cc2ccc(NC(=O)Nc3ccc(Oc4cc(NC)ncn4)cc3)cc2C(F)(F)F)CC1,True,False,AST487,CCN1CCN(Cc2ccc(NC(=O)Nc3ccc(Oc4cc(NC)ncn4)cc3)cc2C(F)(F)F)CC1,True,1.0
+1.pdf,3,1_p3_275_359,275,359,439,140,Cc1nc(Nc2ncc(C(=O)Nc3c(C)cccc3Cl)s2)cc(N2CCN(CCO)CC2)n1,True,False,Dasatinib,Cc1nc(Nc2ncc(C(=O)Nc3c(C)cccc3Cl)s2)cc(N2CCN(CCO)CC2)n1,True,1.0
+1.pdf,3,1_p3_763_364,763,364,438,129,CNC(=O)c1cc(Oc2ccc(NC(=O)Nc3ccc(Cl)c(C(F)(F)F)c3)cc2)ccn1,True,False,Sorafenib,CNC(=O)c1cc(Oc2ccc(NC(=O)Nc3ccc(Cl)c(C(F)(F)F)c3)cc2)ccn1,True,1.0
+1.pdf,4,1_p4_791_372,791,372,408,304,C[C@H]1CC[C@H](n2c3cnccc3c3cnc(Nc4ccc5c(n4)CCN(C(=O)CO)C5)nc32)CC1,True,False,AMG925,C[C@H]1CC[C@H](n2c3cnccc3c3cnc(Nc4ccc5c(n4)CCN(C(=O)CO)C5)nc32)CC1,True,1.0
+16.pdf,6,16_p6_1400_1456,1400,1456,700,529,CC(C)C[C@H]1NC(=O)[C@H](C)NC(=O)[C@H](Cc2ccccc2)NC(=O)CN(Cc2ccccc2)C(=O)[C@@H]2CCCN2C(=O)[C@H](CC(C)C)N(C)C1=O,True,False,P_2,CC(C)C[C@@H]1NC(=O)[C@H](C)NC(=O)[C@H](Cc2ccccc2)NC(=O)CN(Cc2ccccc2)C(=O)[C@@H]2CCCN2C(=O)[C@@H](CC(C)C)N(C)C1=O,False,1.0
+19.pdf,3,19_p3_1403_2304,1403,2304,767,379,Cc1ccc(F)c(C(=O)c2c[nH]c3ncc(-c4ccc(Cl)cc4)cc23)c1F,True,False,12a,CS(=O)(=O)Nc1ccc(F)c(C(=O)c2c[nH]c3ncc(-c4ccc(Cl)cc4)cc23)c1F,False,0.729
+19.pdf,3,19_p3_642_1338,642,1338,377,320,CCCS(=O)(=O)N(C)c1ccc(F)c(C(=O)c2c[nH]c3ncc(-c4ccc(Cl)cc4)cc23)c1F,True,False,VMF,CCCS(=O)(=O)Nc1ccc(F)c(C(=O)c2c[nH]c3ncc(-c4ccc(Cl)cc4)cc23)c1F,False,0.714
+19.pdf,3,19_p3_1968_1245,1968,1245,157,156,*C(=O)[C@@H](C)N*,True,True,,,,
+19.pdf,3,19_p3_1272_1181,1272,1181,166,154,*C(=O)[C@H](*)N*,True,True,,,,
+19.pdf,3,19_p3_521_1614,521,1614,145,130,*C(=O)CN(*)*,True,True,,,,

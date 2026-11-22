@@ -1,0 +1,11 @@
+crop_id,pdf,page,x,y,w,h,crop_path
+1_p1_2012_974,1.pdf,1,2012,974,214,54,pipeline_out/crops/1_p1_2012_974.png
+1_p3_1716_312,1.pdf,3,1716,312,568,222,pipeline_out/crops/1_p3_1716_312.png
+1_p3_1247_268,1.pdf,3,1247,268,412,230,pipeline_out/crops/1_p3_1247_268.png
+1_p3_275_359,1.pdf,3,275,359,439,140,pipeline_out/crops/1_p3_275_359.png
+1_p3_763_364,1.pdf,3,763,364,438,129,pipeline_out/crops/1_p3_763_364.png
+1_p4_791_372,1.pdf,4,791,372,408,304,pipeline_out/crops/1_p4_791_372.png
+1_p4_1197_377,1.pdf,4,1197,377,423,287,pipeline_out/crops/1_p4_1197_377.png
+1_p4_266_413,1.pdf,4,266,413,467,218,pipeline_out/crops/1_p4_266_413.png
+1_p6_632_278,1.pdf,6,632,278,307,164,pipeline_out/crops/1_p6_632_278.png
+1_p6_1574_280,1.pdf,6,1574,280,587,119,pipeline_out/crops/1_p6_1574_280.png
